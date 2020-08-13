@@ -1,6 +1,6 @@
 ## ML100Days
 ### 1. 機器學習概論 Machine Learning Introduction
-### 從概念上理解機器學習的目的與限制，並瞭解機器學習流程
+#### 從概念上理解機器學習的目的與限制，並瞭解機器學習流程
 - Day_001: 如何評估資料
 - Day_002: 瞭解機器學習的應用
 - Day_003: 閱讀機器學習文章，瞭解其專案目標、技術與資料來源
@@ -64,7 +64,7 @@
 - Day_051-053: 期中考: 透過Kaggle完成資料科學專案(ML與調參相關)
 
 ### 7. 非監督式機器學習 Unsupervised Learning
-### 利用分群和降維方法探索資料模式 Clustering and Dimension Reduction
+#### 利用分群和降維方法探索資料模式 Clustering and Dimension Reduction
 - Day_054: clustering 1 非監督式機器學習簡介與應用場景
 - Day_055: clustering 2 聚類算法 K-means
 - Day_056: K-means觀察: 使用輪廓分析
@@ -76,7 +76,7 @@
 - Day_062: T-SNE觀察: 分群與流形還原
 
 ### 8. 深度學習 Deep Learning
-### 深度神經網路 Deep Neural Networks (DNN)
+#### 深度神經網路 Deep Neural Networks (DNN)
 - Day_063: 類神經歷史與深度學習概念
 - Day_064: 模型調整與學習曲線 TensorFlow PlayGround
 - Day_065: 啟動函數與正規化
@@ -91,7 +91,7 @@
 - Day_075: 反向式傳播 BackPropagation
 - Day_076: 優化器 Optimizers
 
-### 訓練神經網路的細節與技巧
+##### 訓練神經網路的細節與技巧
 - Day_077: Validation and overfit
 - Day_078: 訓練神經網路前的注意事項(資料處理、運算資源、超參數設置)
 - Day_079: Learning rate effect
@@ -109,7 +109,7 @@
 - Day_090: 使用傳統電腦視覺與機器學習進行影像辨識
 - Day_091: 應用傳統電腦視覺方法 + 機器學習進行CIFAR-10分類
 
-### 卷積神經網路 Convolutional Neural Networks (CNN)
+#### 卷積神經網路 Convolutional Neural Networks (CNN)
 - Day_092: CNN的重要性與組成結構
 - Day_093: CNN為什麼比DNN更適合處理影像問題
 - Day_094: 卷積層原理與參數說明
@@ -117,14 +117,14 @@
 - Day_096: Keras中常用的CNN layers
 - Day_097: 透過CNN 訓練CIFAR-10並比較其與DNN的差異
 
-### 訓練卷積神經網路的細節與處理技巧
+##### 訓練卷積神經網路的細節與處理技巧
 - Day_098: 處理大量數據 (使用Python的生成器generator)
 - Day_099: 處理小量數據 (使用資料增強提升準確率)
 - Day_100: 遷移學習 Transfer Learning
 
 - Day_101-103: 期末考:透過Kaggle影像辨識測驗，綜合應用深度學習的課程內容，並體驗遷移學習的威力
 
-### 進階補充
+#### 進階補充
 - Day_104: 史丹佛線上 ConvNetJS
 - Day_105: CNN 卷積網路的有趣應用
 - Day_106: 電腦視覺常用公開資料集
